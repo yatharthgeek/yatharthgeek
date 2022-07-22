@@ -1,7 +1,6 @@
 [![MasterHead](http://www.itbrainy.com/wp-content/uploads/2020/07/python_banner.jpg)](https://libpy.code.blog)
 <h1 align="center">Hi 👋, I'm Yatharth</h1>
 <h3 align="center">Python learner and tech enthusiast .</h3>
-
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **myself**
