@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yatharth</h1>
 <h3 align="center">Python learner and tech enthusiast .</h3>
 
-<img align="right" alt="coding" width="400" src="https://i0.wp.com/i.gifer.com/H0dA.gif?resize=650,400">
+<img align="right" alt="coding" width="400" src="https://i0.wp.com/i.gifer.com/H0dA.gif">
 
 - 🔭 I’m currently working on **myself**
 
