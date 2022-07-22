@@ -1,7 +1,7 @@
 [![MasterHead](https://www.agiratech.com/wp-content/uploads/2019/09/python-development-banner.png)](https://libpy.code.blog)
 <h1 align="center">Hi 👋, I'm Yatharth</h1>
 <h3 align="center">Python learner and tech enthusiast .</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"><br>
 
 - 🔭 I’m currently working on **myself**
 
