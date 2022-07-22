@@ -1,4 +1,4 @@
-[![MasterHead](https://www.agiratech.com/wp-content/uploads/2019/09/python-development-banner.png)](https://libpy.code.blog)
+[![MasterHead](https://media4.giphy.com/media/coxQHKASG60HrHtvkt/giphy.webp?cid=82a1493b0w94ccke9obvfhxi13w0yzeiidycezyrwxl07hkq&rid=giphy.webp&ct=g)](https://libpy.code.blog)
 <h1 align="center">Hi 👋, I'm Yatharth</h1>
 <h3 align="center">Python learner and tech enthusiast .</h3>
 <img align="center" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"><br>
@@ -12,6 +12,8 @@
 - 📫 How to reach me **yatharth171134@gmail.com**
 
 - ⚡ Fun fact **still learning !!!**
+
+-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
