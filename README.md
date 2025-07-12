@@ -1,7 +1,5 @@
-[![MasterHead](https://media4.giphy.com/media/coxQHKASG60HrHtvkt/giphy.webp?cid=82a1493b0w94ccke9obvfhxi13w0yzeiidycezyrwxl07hkq&rid=giphy.webp&ct=g)](https://libpy.code.blog)
 <h1 align="center">Hi 👋, I'm Yatharth</h1>
 <h3 align="center">Python learner and tech enthusiast .</h3>
-<img align="center" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"><br>
 
 - 🔭 I’m currently working on **myself**
 
